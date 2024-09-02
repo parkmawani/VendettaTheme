@@ -1,5 +1,5 @@
 {
-  "name": "Orchid Love",
+  "name": "Kuromi Love",
   "description": "Theme made with love",
   "authors": [
     {
@@ -279,6 +279,7 @@
   "background": {
       "alpha": 5,
       "url": "https://raw.githubusercontent.com/parkmawani/AnimeVision/main/peakpx.jpg"
+       "blur": 0.6,
   },
   "plus":{
      "version":"0",
